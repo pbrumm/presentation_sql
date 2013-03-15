@@ -25,5 +25,5 @@ http://sqlfiddle.com/#!12/151a4/18
 
 ###  OUTER JOIN Differences
 
-http://sqlfiddle.com/#!12/151a4/19
+http://sqlfiddle.com/#!12/151a4/23
 
